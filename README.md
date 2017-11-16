@@ -78,3 +78,5 @@ dialog. [At this point we will be on the “System BIOS settings” menu page]
 
 * https://[iDRACIP]/  (or)
 * https://[fqdn of the iDrac] 
+
+The default username is : `root` and the default password is : `calvin`.
